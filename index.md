@@ -7,20 +7,32 @@
  -
 
 ### スキル
- -
+- C/C++
+ - 利用歴約4年
+ - C/C++をベースとしたarduinoでデジタル時計を制作
+- Unity
+ - 利用歴1年
+- C#
+ - 利用歴1年
+
 
 ### 取り組んでいるテーマ
- -
+ - Unityを主としたゲーム制作技術の向上
 
 ### 成果物
 ---
  # よけとる-endless-
  <img src="images/yoketoruendless.png"
- alt="画像" style="width: 320px">
+ alt="よけとる-endless-" style="width: 320px">
 
- [よけとる-endless-](https://unityroom.com/games/yoketoruendless)
+リンク: [よけとる-endless-](https://unityroom.com/games/yoketoruendless)
+
 ---
- #
+ # Barrage
+ <img src="images/Barrage.png"
+ alt="Barrage" style="width: 320px">
+
+
 ---
 #### 連絡先
  - [gmailアドレス](mailto:yuuyuu7001@gmail.com)
