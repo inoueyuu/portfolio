@@ -3,8 +3,6 @@
 ## 井上悠
  - デジタルアーツ東京 ゲーム学科プログラミングコース 2023年卒業予定
 
-### 資格
- -
 
 ### スキル
 - C/C++
@@ -32,6 +30,13 @@
  <img src="images/Barrage.png"
  alt="Barrage" style="width: 320px">
 
+
+---
+# Correct the way
+<img src="images/correcttheway.png"
+alt="Correct the way" style="width: 320px">
+
+- 製作期間約2週間
 
 ---
 #### 連絡先
