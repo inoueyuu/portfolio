@@ -1,4 +1,4 @@
-# portfolio
+**# portfolio**
 
 ## 井上悠
  - デジタルアーツ東京 ゲーム学科プログラミングコース 2023年卒業予定
@@ -15,7 +15,9 @@
 ### 成果物
 ---
  # よけとる-endless-
- [yoketoru-ebdless-](images/yoketoruendless.png)
+ <img src="images/yoketoruendless.png"
+ alt="画像" style="width: 320px">
+
  [よけとる-endless-](https://unityroom.com/games/yoketoruendless)
 ---
  #
